@@ -4241,8 +4241,8 @@ packages:
     resolution: {integrity: sha512-ok6z3qlYyCDS4ZEU27HaU6x/xZa9Whf8jD4ptH5UZTQYZVYeb9bnZ3ojVhiJNLiXK1Hfc0GNbLXcmZ5plLDDBg==}
     engines: {node: '>=14'}
     dependencies:
-      mlly: 1.7.1
-      pkg-types: 1.1.3
+      mlly: 1.7.3
+      pkg-types: 1.2.1
     dev: true
 
   /locate-path@5.0.0:
